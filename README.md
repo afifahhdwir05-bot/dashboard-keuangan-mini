@@ -26,3 +26,11 @@ Proyek ini menggunakan data latihan yang terdiri dari lima transaksi pengeluaran
 
 ## Status
 Dalam proses pengembangan.
+
+## Link Proyek
+
+- **Google Sheets:** [Lihat Dashboard Keuangan Mini](https://docs.google.com/spreadsheets/d/1qTNOW__eA7gd1AyioUeH1YNwt1ZviPxp_3wCr-nUXuA/edit?usp=sharing)
+
+## Status
+
+Selesai — proyek latihan analisis pengeluaran menggunakan Google Sheets.
